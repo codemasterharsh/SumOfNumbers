@@ -1,7 +1,7 @@
 #include<iostream.h>
 #include<conio.h>
-void main()
-{
+
+
 
     int n, sum = 0;
     cout << "Enter a positive integer: ";
@@ -11,4 +11,5 @@ void main()
     }
     cout << "Sum = " << sum;
     
+
  }
